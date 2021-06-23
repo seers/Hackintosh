@@ -1,4 +1,4 @@
-# Hackintosh
+# OpenCore config for macOS High Sierra
 **Step-by-step follow Dortania's OpenCore Install Guide, only keep required efi&kexts, all values in config stay default unless conflict with guide**
 * CPU : i7-6700K
 * Motherboard : ASUS Z170 PRO GAMING
