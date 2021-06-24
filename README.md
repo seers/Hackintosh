@@ -15,5 +15,5 @@
 * Power Management
 
 # What's not working
-* DRM (maybe gpu related issue, no fix, not going to watch any drm content on my hackintosh)
+* DRM (maybe gpu related issue, don't care)
 * iServices (don't care)
