@@ -15,5 +15,5 @@
 * Power Management
 
 # What's not
-* DRM (maybe gpu related issue, don't care)
-* iServices (don't care)
+* DRM (maybe gpu related issue)
+* iServices (Find yourself a valid SN should make it work)
