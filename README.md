@@ -16,4 +16,4 @@
 
 # What's not
 * DRM (maybe gpu related issue)
-* iServices (Find yourself a valid SN should make it work)
+* iServices (find yourself a valid SN should make it work)
